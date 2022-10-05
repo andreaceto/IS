@@ -22,4 +22,7 @@ public class Calcolatrice {
         }
         else return 0;
     }
+
+    //testo inserito per verificare creazione nuovo branch
+
 }
